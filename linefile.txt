@@ -1,0 +1,9 @@
+-rwxrwx---+ 1 Nergal Nincs   0 nov.  10 14.36 [01;32mfilelist.txt[0m*
+-rwxrwx---+ 1 Nergal Nincs 143 nov.  10 14.10 [01;32mindex.html[0m*
+-rwxrwx---+ 1 Nergal Nincs 143 nov.  10 14.12 [0m[01;32mabout.html[0m*
+-rwxrwx---+ 1 Nergal Nincs 145 nov.  10 14.10 [01;32mtasks.txt[0m*
+-rwxrwx---+ 1 Nergal Nincs 233 nov.  10 14.10 [01;32mREADME.md[0m*
+összesen 4
+drwxrwx---+ 1 Nergal Nincs   0 nov.  10 14.13 [01;34mimages[0m/
+drwxrwx---+ 1 Nergal Nincs   0 nov.  10 14.13 [01;34mtemp_images[0m/
+drwxrwx---+ 1 Nergal Nincs   0 nov.  10 14.14 [01;34mcss[0m/
